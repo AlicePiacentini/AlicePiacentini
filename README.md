@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Robotics-79C8E8?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-79C8E8?style=flat-square" alt="AI / ML" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-79C8E8?style=flat-square" alt="Software Engineering" />
+  <strong>Robotics</strong> &nbsp;·&nbsp; <strong>AI &amp; Machine Learning</strong> &nbsp;·&nbsp; <strong>Software Engineering</strong>
 </p>
 
 ---
