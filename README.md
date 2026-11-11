@@ -27,7 +27,7 @@ I'm interested in **robotics, artificial intelligence, and software engineering*
 
 ### Featured projects
 
-**[Tessera Embeddings Explorer (TEE)](https://github.com/ucam-eo/TEE)**  
+**[TEE — Open-Source Contributions](https://github.com/AlicePiacentini/tee-open-source-contributions)**  
 Contributed as part of a Chalmers team to an open-source satellite imagery exploration tool. Our work included a **Gothenburg land-cover dataset**, a **polygon rasterization bug fix**, and **more stable clustering methods**, all merged into the upstream project.  
 [Dataset PR #34](https://github.com/ucam-eo/TEE/pull/34) · [Rasterization PR #33](https://github.com/ucam-eo/TEE/pull/33) · [Clustering PR #31](https://github.com/ucam-eo/TEE/pull/31)
 
