@@ -37,6 +37,9 @@ Team-developed Java adaptation of the board game, with a **multiplayer client-se
 **[Robot for Post-Hurricane Agricultural Inspection](https://github.com/bingxunding/Robot-for-Post-Hurricane-Agricultural-Inspection)**  
 Team project exploring an autonomous robot for agricultural field inspection after severe weather, involving **embedded control, connectivity, route planning, and sensor-data processing**.
 
+**[Mobile Robotics — ROS 2, Odometry & SLAM](https://github.com/AlicePiacentini/mobile-robotics-ros2)**  
+Coursework portfolio featuring **C++ odometry and TF error analysis**, plus **SLAM Toolbox and Nav2 navigation**. Curated source code and setup notes.
+
 **[Digital Logic Design — VHDL](https://github.com/IsabelReguera/Reti_logiche_project)**  
 Design and verification of a **VHDL differential-filtering module**, with a finite-state-machine controller, RAM interfacing, and simulation in **Vivado**.
 
